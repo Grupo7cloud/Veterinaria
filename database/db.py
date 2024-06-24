@@ -50,3 +50,4 @@ def consult_user(id):
     except Exception as err:
         print("Error", err)
         
+        
